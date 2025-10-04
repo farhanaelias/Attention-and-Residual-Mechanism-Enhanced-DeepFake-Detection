@@ -41,12 +41,7 @@
 
 ---
 
-## 📸 Visual Results
 
-![image](https://github.com/user-attachments/assets/d1d3ff70-ce7e-4963-bd29-e4e8ced0f24b)  
-![image](https://github.com/user-attachments/assets/9a5e8ba9-5f28-45f5-84c3-3d53b528bc57)
-
----
 
 ## 🗂️ Project Structure
 
